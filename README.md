@@ -1,10 +1,10 @@
-## JAVA DATA TYPES DEMONSTRATION
+# JAVA DATA TYPES DEMONSTRATION
 
-# This project demonstrates how various Java data types are used by a simple Java program.
+## This project demonstrates how various Java data types are used by a simple Java program.
 
-# Description
+## Description
 
-# Below are the following data types shown by Main class:
+## Below are the following data types shown by Main class:
 
 Integer (int)
 
